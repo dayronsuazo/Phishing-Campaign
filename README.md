@@ -10,13 +10,13 @@ By tracking user interactions, we can measure vulnerability, provide targeted tr
 
 **Threat Analysis**: Understanding common phishing tactics, such as fake links, attachments, or impersonation, and identifying how attackers exploit human vulnerabilities.
 
-Security Awareness: Gaining insight into employee behaviors and how users respond to threats, helping to tailor future security training.
+**Security Awareness**: Gaining insight into employee behaviors and how users respond to threats, helping to tailor future security training.
 
-Metrics and Reporting: Measuring campaign results by tracking metrics like click rates and user responses, and generating reports to highlight vulnerabilities.
+**Metrics and Reporting**: Measuring campaign results by tracking metrics like click rates and user responses, and generating reports to highlight vulnerabilities.
 
-Incident Response Planning: Enhancing skills in preparing for actual phishing attacks by simulating how the organization should respond, including user reporting and threat mitigation.
+**Incident Response Planning**: Enhancing skills in preparing for actual phishing attacks by simulating how the organization should respond, including user reporting and threat mitigation.
 
-Compliance and Policy Enforcement: Ensuring the campaign aligns with company policies and regulatory standards while fostering a culture of cybersecurity awareness.
+**Compliance and Policy Enforcement**: Ensuring the campaign aligns with company policies and regulatory standards while fostering a culture of cybersecurity awareness.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
