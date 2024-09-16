@@ -19,17 +19,7 @@ By tracking user interactions, we can measure vulnerability, provide targeted tr
 **Compliance and Policy Enforcement**: Ensuring the campaign aligns with company policies and regulatory standards while fostering a culture of cybersecurity awareness.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+**Microsoft Defender for Office 365**: Provides phishing simulations, email filtering, and advanced threat protection, integrated into the Microsoft environment for email security.
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+**Phishing Tackle**:A Cyber Security Awareness Training and real-world simulated phishing, policy management, and a huge training library helping our users become a human firewall.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
